@@ -6,7 +6,7 @@
 💻 Passionate **Full Stack Developer | AI/ML Enthusiast | Problem Solver**  
 🚀 Exploring **MERN Stack, AI Safety Systems, Generative AI, and IoT**  
 
----
+--- 
 
 ## 🛠️ Tech Stack & Skills  
 
