@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Shriprakashbharti/Shriprakashbharti/tree/light/README.md">
+    <img src="https://img.shields.io/badge/☀️%20Light%20Theme-blue?style=for-the-badge" />
+  </a>
+</p>
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Shri%20Prakash%20Baitha&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 # 👋 Hi, I'm Shri Prakash Baitha  
