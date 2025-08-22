@@ -1,9 +1,7 @@
 <!-- Theme Toggle -->
 <p align="center">
+ 
   <a href="https://github.com/Shriprakashbharti/Shriprakashbharti/tree/dark/README.md">
-    <img src="https://img.shields.io/badge/☀️%20Light%20Theme-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Shriprakashbharti/Shriprakashbharti">
     <img src="https://img.shields.io/badge/🌙%20Dark%20Theme-purple?style=for-the-badge" />
   </a>
 </p>
