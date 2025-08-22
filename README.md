@@ -181,10 +181,8 @@
 
 ## 📈 Profile Insights  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shriprakashbharti&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Shriprakashbharti&label=Profile%20Views&color=blue&style=flat)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shriprakashbharti&theme=github-light&hide_border=true&area=true)  
 ---
 
 > *"Building scalable apps, AI projects, and solving real-world problems with code! Always open to collaborating on innovative projects and learning new technologies."*
