@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Shri%20Prakash%20Baitha&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F6F8FA,100:C9D6FF&height=200&section=header&text=Shri%20Prakash%20Baitha&fontSize=40&fontColor=000&animation=fadeIn&fontAlignY=35)
 
 # 👋 Hi, I'm Shri Prakash Baitha  
 
@@ -84,9 +84,9 @@
 
 ## 📊 GitHub Stats  
 
-![Shri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriprakashbharti&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shriprakashbharti&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Shriprakashbharti&theme=radical)  
+![Shri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriprakashbharti&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shriprakashbharti&layout=compact&theme=default)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Shriprakashbharti&theme=default)  
 
 ---
 
@@ -112,9 +112,9 @@
 
 ## 📈 Profile Insights  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Shriprakashbharti&label=Profile%20Views&color=0e75b6&style=flat)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shriprakashbharti&theme=react-dark&hide_border=true)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Shriprakashbharti&label=Profile%20Views&color=blue&style=flat)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shriprakashbharti&theme=github-light&hide_border=true)  
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C9D6FF,100:F6F8FA&height=150&section=footer)
