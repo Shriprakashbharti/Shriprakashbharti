@@ -48,8 +48,10 @@
 ## 🚀 Projects  
 
 🔹 [**Live Blind Spot Detection**](https://github.com/Shriprakashbharti/CODECLASH-FRONTEND) – Real-time YOLOv8-based detection reducing accidents by 40%, integrated with WebRTC & AWS EC2.  
-🔹 [**Imaginity AI**](https://imaginifyai-blue.vercel.app/) – Text-to-image generator (DALL·E API), serving 1K+ daily requests, optimized latency (200ms).  
-🔹 [**Git Detective**](https://shriprakashbharti.github.io/Dev-detective/) – Real-time repo analysis dashboard with Redis caching & AWS Lambda.  
+🔹 [**SentimentLab**](https://sentimentlab.vercel.app/) – Educational app for Sentiment Analysis: interactive story mode, quizzes, multi-language (EN/HI), batch processing, and real-time lab.  
+🔹 [**Imaginity AI**](https://imaginifyai-blue.vercel.app/) – AI-powered text-to-image generator (DALL·E API), 1K+ daily requests, optimized latency (200ms).  
+🔹 [**EduMaster**](https://edumaster-omega.vercel.app/) – Innovative EdTech platform transforming learning with accessible tech solutions.  
+🔹 [**Git Detective**](https://shriprakashbharti.github.io/Dev-detective/) – Repo analysis dashboard with Redis caching & AWS Lambda.  
 🔹 [**Skills Intern Academy**](#) – Internship & certification MERN platform with instant certificate generation & payment gateway.  
 🔹 [**Smart NeuroPods**](#) – AirPods-style EEG headset with ESP32, enabling brain-signal-based device control.  
 🔹 [**Resume Builder**](#) – Customizable templates with live preview & PDF export.  
@@ -74,8 +76,9 @@
 🏅 **Winner – IEEE CodeClash 2025 (Purdue University)** – AI Blind Spot Detection System  
 🏅 **Finalist – e-Yantra Robotics Competition (IIT Bombay)**  
 🏅 **Winner – Innovation IRISH 2K23 (PA College)**  
-🏅 **HackerRank Certified Software Engineer** (ID: 83c480f3bdbc)  
+🏅 **HackerRank Certified Software Engineer** ([Certificate](https://www.hackerrank.com/certificates/83c480f3bdbc))  
 ⭐ 5-Star Gold Badge in **Java Problem Solving (HackerRank)**  
+📈 **Active Problem Solver on LeetCode, GFG, HackerRank**  
 
 ---
 
@@ -87,6 +90,14 @@
 
 ---
 
+## ✨ Fun Animated Section  
+
+![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)  
+
+*"Building scalable apps, AI projects, and solving real-world problems with code!"*  
+
+---
+
 ## 🌍 Connect With Me  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://shriprakashbharti.github.io/portfolio/)  
@@ -94,7 +105,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shriprakashbharti)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shriprakash1918/)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shriprakash1819/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bhartikeshav527)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shriprakashbaitha59@gmail.com)  
+
+---
+
+## 📈 Profile Insights  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Shriprakashbharti&label=Profile%20Views&color=0e75b6&style=flat)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shriprakashbharti&theme=react-dark&hide_border=true)  
 
 ---
 
