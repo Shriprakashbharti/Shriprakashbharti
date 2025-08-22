@@ -140,7 +140,7 @@
 
 ## 🌟 Fun Facts
 
-- 🎯 **Competitive Programmer** since 2020
+- 🎯 **Competitive Programmer** since 2022
 - 🚀 **Built 15+ production applications** in the last 2 years
 - 📚 **Self-taught developer** with passion for learning new technologies
 - 🎸 **Music enthusiast** and amateur guitarist
